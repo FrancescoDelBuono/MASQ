@@ -52,7 +52,13 @@ $ python manage.py runserver
 
 The Application Runs on **localhost:8000** 
 
+## Demo Contributors
 
+* Francesco Del Buono
+* Matteo Paganelli
+
+## License
+[MIT License](LICENSE)
 
 
 
