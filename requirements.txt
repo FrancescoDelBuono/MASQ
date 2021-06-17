@@ -11,7 +11,7 @@ Cython==0.29.14
 Django==3.0.2
 django-cors-headers==3.2.1
 django-filter==2.2.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 graphviz==0.14
 idna==2.8
 importlib-metadata==1.6.1
