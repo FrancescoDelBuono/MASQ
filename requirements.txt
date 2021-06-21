@@ -28,7 +28,7 @@ packaging==20.4
 pandas==0.25.3
 pluggy==0.13.1
 public==2019.4.13
-py==1.8.2
+py==1.10.0
 pycparser==2.19
 pymssql==2.2.1
 PyMySQL==0.9.3
